@@ -54,7 +54,7 @@
     "loglevel": "^1.6.8",
     "opn": "^5.5.0",
     "p-retry": "^3.0.1",
-    "portfinder": "^1.0.26",
+    "portfinder": "git+https://github.com/ganesankv/node-portfinder#P_v1.0.28",
     "schema-utils": "^1.0.0",
     "selfsigned": "^1.10.8",
     "semver": "^6.3.0",
